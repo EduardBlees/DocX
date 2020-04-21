@@ -1,0 +1,9 @@
+D:\programming\docx\DocX\Xceed.Words.NET\bin\Debug\Xceed.Words.NET.dll
+D:\programming\docx\DocX\Xceed.Words.NET\bin\Debug\Xceed.Words.NET.pdb
+D:\programming\docx\DocX\Xceed.Words.NET\bin\Debug\Xceed.Document.NET.dll
+D:\programming\docx\DocX\Xceed.Words.NET\bin\Debug\Xceed.Document.NET.pdb
+D:\programming\docx\DocX\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.csprojAssemblyReference.cache
+D:\programming\docx\DocX\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.csproj.CoreCompileInputs.cache
+D:\programming\docx\DocX\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.csproj.CopyComplete
+D:\programming\docx\DocX\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.dll
+D:\programming\docx\DocX\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.pdb

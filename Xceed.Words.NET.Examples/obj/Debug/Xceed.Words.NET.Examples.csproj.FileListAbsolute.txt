@@ -1,0 +1,12 @@
+D:\programming\docx\DocX\Xceed.Words.NET.Examples\bin\Debug\Xceed.Words.NET.Examples.exe.config
+D:\programming\docx\DocX\Xceed.Words.NET.Examples\bin\Debug\Xceed.Words.NET.Examples.exe
+D:\programming\docx\DocX\Xceed.Words.NET.Examples\bin\Debug\Xceed.Words.NET.Examples.pdb
+D:\programming\docx\DocX\Xceed.Words.NET.Examples\bin\Debug\Xceed.Document.NET.dll
+D:\programming\docx\DocX\Xceed.Words.NET.Examples\bin\Debug\Xceed.Words.NET.dll
+D:\programming\docx\DocX\Xceed.Words.NET.Examples\bin\Debug\Xceed.Document.NET.pdb
+D:\programming\docx\DocX\Xceed.Words.NET.Examples\bin\Debug\Xceed.Words.NET.pdb
+D:\programming\docx\DocX\Xceed.Words.NET.Examples\obj\Debug\Xceed.Words.NET.Examples.csprojAssemblyReference.cache
+D:\programming\docx\DocX\Xceed.Words.NET.Examples\obj\Debug\Xceed.Words.NET.Examples.csproj.CoreCompileInputs.cache
+D:\programming\docx\DocX\Xceed.Words.NET.Examples\obj\Debug\Xceed.Words.NET.Examples.csproj.CopyComplete
+D:\programming\docx\DocX\Xceed.Words.NET.Examples\obj\Debug\Xceed.Words.NET.Examples.exe
+D:\programming\docx\DocX\Xceed.Words.NET.Examples\obj\Debug\Xceed.Words.NET.Examples.pdb

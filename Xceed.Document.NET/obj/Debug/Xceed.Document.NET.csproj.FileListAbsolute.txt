@@ -1,0 +1,6 @@
+D:\programming\docx\DocX\Xceed.Document.NET\bin\Debug\Xceed.Document.NET.dll
+D:\programming\docx\DocX\Xceed.Document.NET\bin\Debug\Xceed.Document.NET.pdb
+D:\programming\docx\DocX\Xceed.Document.NET\obj\Debug\Xceed.Document.NET.csprojAssemblyReference.cache
+D:\programming\docx\DocX\Xceed.Document.NET\obj\Debug\Xceed.Document.NET.csproj.CoreCompileInputs.cache
+D:\programming\docx\DocX\Xceed.Document.NET\obj\Debug\Xceed.Document.NET.dll
+D:\programming\docx\DocX\Xceed.Document.NET\obj\Debug\Xceed.Document.NET.pdb

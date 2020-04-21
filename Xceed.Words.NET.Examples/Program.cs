@@ -34,98 +34,99 @@ namespace Xceed.Words.NET.Examples
       Console.WriteLine( "\nRunning Examples of Xceed Words for .NET version " + versionNumber + ".\n" );
 
       //Paragraphs      
-      ParagraphSample.SimpleFormattedParagraphs();
-      ParagraphSample.ForceParagraphOnSinglePage();
-      ParagraphSample.ForceMultiParagraphsOnSinglePage();
-      ParagraphSample.TextActions();
-      ParagraphSample.Heading();
-      ParagraphSample.AddObjectsFromOtherDocument();
+      //ParagraphSample.SimpleFormattedParagraphs();
+      //ParagraphSample.ForceParagraphOnSinglePage();
+      //ParagraphSample.ForceMultiParagraphsOnSinglePage();
+      //ParagraphSample.TextActions();
+      //ParagraphSample.Heading();
+      //ParagraphSample.AddObjectsFromOtherDocument();
 
-      //Document
-      DocumentSample.AddCustomProperties();
-      DocumentSample.ReplaceTextWithText();
-      DocumentSample.ReplaceTextWithObjects();
-      DocumentSample.ApplyTemplate();
-      DocumentSample.AppendDocument();
-      DocumentSample.LoadDocumentWithFilename();
-      DocumentSample.LoadDocumentWithStream();
-      DocumentSample.LoadDocumentWithStringUrl();
+        //Document
+        DocumentSample.FormattedCustomProperties();
+      //DocumentSample.AddCustomProperties();
+      //DocumentSample.ReplaceTextWithText();
+      //DocumentSample.ReplaceTextWithObjects();
+      //DocumentSample.ApplyTemplate();
+      //DocumentSample.AppendDocument();
+      //DocumentSample.LoadDocumentWithFilename();
+      //DocumentSample.LoadDocumentWithStream();
+      //DocumentSample.LoadDocumentWithStringUrl();
 
-      //Images
-      ImageSample.AddPicture();
-      ImageSample.AddPictureWithTextWrapping();
-      ImageSample.CopyPicture();
-      ImageSample.ModifyImage();
+      ////Images
+      //ImageSample.AddPicture();
+      //ImageSample.AddPictureWithTextWrapping();
+      //ImageSample.CopyPicture();
+      //ImageSample.ModifyImage();
 
-      // Indentation / Direction / Margins
-      MarginSample.SetDirection();
-      MarginSample.Indentation();
-      MarginSample.Margins();
+      //// Indentation / Direction / Margins
+      //MarginSample.SetDirection();
+      //MarginSample.Indentation();
+      //MarginSample.Margins();
 
-      //Header/Footers
-      HeaderFooterSample.HeadersFooters();
+      ////Header/Footers
+      //HeaderFooterSample.HeadersFooters();
 
-      //Tables
-      TableSample.InsertRowAndImageTable();
-      TableSample.AddTableWithTextWrapping();
-      TableSample.TextDirectionTable();
-      TableSample.CreateRowsFromTemplate();
-      TableSample.ColumnsWidth();
-      TableSample.MergeCells();
+      ////Tables
+      //TableSample.InsertRowAndImageTable();
+      //TableSample.AddTableWithTextWrapping();
+      //TableSample.TextDirectionTable();
+      //TableSample.CreateRowsFromTemplate();
+      //TableSample.ColumnsWidth();
+      //TableSample.MergeCells();
 
-      //Hyperlink
-      HyperlinkSample.Hyperlinks();
+      ////Hyperlink
+      //HyperlinkSample.Hyperlinks();
 
-      //Section
-      SectionSample.InsertSections();
-      SectionSample.SetPageOrientations();
+      ////Section
+      //SectionSample.InsertSections();
+      //SectionSample.SetPageOrientations();
 
-      //Lists
-      ListSample.AddList();
+      ////Lists
+      //ListSample.AddList();
 
-      //Equations
-      EquationSample.InsertEquation();
+      ////Equations
+      //EquationSample.InsertEquation();
 
-      //Bookmarks
-      BookmarkSample.InsertBookmarks();
-      BookmarkSample.ReplaceText();
+      ////Bookmarks
+      //BookmarkSample.InsertBookmarks();
+      //BookmarkSample.ReplaceText();
 
-      //Charts
-      ChartSample.BarChart();
-      ChartSample.LineChart();
-      ChartSample.PieChart();
-      ChartSample.Chart3D();
-      ChartSample.ModifyChartData();
+      ////Charts
+      //ChartSample.BarChart();
+      //ChartSample.LineChart();
+      //ChartSample.PieChart();
+      //ChartSample.Chart3D();
+      //ChartSample.ModifyChartData();
 
-      //Tale of Content
-      TableOfContentSample.InsertTableOfContent();
-      TableOfContentSample.InsertTableOfContentWithReference();
-      TableOfContentSample.UpdateTableOfContent();
+      ////Tale of Content
+      //TableOfContentSample.InsertTableOfContent();
+      //TableOfContentSample.InsertTableOfContentWithReference();
+      //TableOfContentSample.UpdateTableOfContent();
 
-      //Lines
-      LineSample.InsertHorizontalLine();
+      ////Lines
+      //LineSample.InsertHorizontalLine();
 
-      //Protection
-      ProtectionSample.AddPasswordProtection();
-      ProtectionSample.AddProtection();
+      ////Protection
+      //ProtectionSample.AddPasswordProtection();
+      //ProtectionSample.AddProtection();
 
-      //Parallel  
-      ParallelSample.DoParallelActions();
+      ////Parallel  
+      //ParallelSample.DoParallelActions();
 
-      //Others
-      MiscellaneousSample.CreateRecipe();
-      MiscellaneousSample.CompanyReport();
-      MiscellaneousSample.CreateInvoice();
-      MiscellaneousSample.MailMerge();
+      ////Others
+      //MiscellaneousSample.CreateRecipe();
+      //MiscellaneousSample.CompanyReport();
+      //MiscellaneousSample.CreateInvoice();
+      //MiscellaneousSample.MailMerge();
 
-      //PDF  
-      PdfSample.ConvertToPDF();
+      ////PDF  
+      //PdfSample.ConvertToPDF();
 
-      //Shape
-      ShapeSample.AddShape();
-      ShapeSample.AddShapeWithTextWrapping();
-      ShapeSample.AddTextBox();
-      ShapeSample.AddTextBoxWithTextWrapping();
+      ////Shape
+      //ShapeSample.AddShape();
+      //ShapeSample.AddShapeWithTextWrapping();
+      //ShapeSample.AddTextBox();
+      //ShapeSample.AddTextBoxWithTextWrapping();
 
       Console.WriteLine( "\nDone running Examples of Xceed Words for .NET version " + versionNumber + ".\n" );
       Console.WriteLine( "\nPress any key to exit." );

@@ -145,9 +145,31 @@ namespace Xceed.Words.NET.Examples
     }
 
     /// <summary>
-    /// Add a template to a document.
+    /// Update custom property with formatted
     /// </summary>
-    public static void ApplyTemplate()
+    public static void FormattedCustomProperties()
+    {
+        Console.WriteLine("\tFormattedCustomProperties()");
+
+        using (var document = DocX.Load(DocumentSample.DocumentSampleOutputDirectory + @"formatting_test.docx"))
+        {
+            document.AddCustomProperty(new CustomProperty("FormatProperty", $"FIRSTLINE{Environment.NewLine}SECONDLINE{Environment.NewLine}THIRDLINE"));
+            document.Save();
+            Console.WriteLine("\tChanged: formatting_text.docx\n");
+        }
+
+        using (var document = DocX.Load(DocumentSample.DocumentSampleOutputDirectory + @"formatting_test2.docx"))
+        {
+            document.AddCustomProperty(new CustomProperty("FormatProperty", $"FIRSTLINE{Environment.NewLine}SECONDLINE{Environment.NewLine}THIRDLINE"), true);
+            document.Save();
+            Console.WriteLine("\tChanged: formatting_text2.docx\n");
+        }
+    }
+
+        /// <summary>
+        /// Add a template to a document.
+        /// </summary>
+        public static void ApplyTemplate()
     {
       Console.WriteLine( "\tApplyTemplate()" );
 
